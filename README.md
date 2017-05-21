@@ -23,10 +23,10 @@ Instructions on how to build your project and run it from command line. Edit you
 
 ### Poster
 A2 format
-[Poster](pdf/poster.pdf)
+[Poster](poster.pdf)
 
 ### Presentation
 2 min presentation with slides ...
-[Presentation](pdf/presentation.pdf)
+[Presentation](presentation.pdf)
 
 # Best of Luck!
