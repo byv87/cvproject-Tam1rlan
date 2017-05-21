@@ -2,7 +2,7 @@
 
 | Title                          | Author         |
 | ------------------------------ | -------------- |
-| _Automatic Exam Paper Grading_ | _Vasya Pupkin_ |
+| _Hand detection_ | _Tamirlan Aubakirov_ |
 
 
 
@@ -14,8 +14,7 @@
 | Presentation  | 0     | 5 points   |
 
 ### Abstract
-Short description the goal(s) of your project and mehtods used to achieve the goal(s).
-
+My project is about detecting a hand by webcam.
 ### How to build and run
 Instructions on how to build your project and run it from command line. Edit you `CMakeLists.txt` and `.gitignore` if necessary.
 
