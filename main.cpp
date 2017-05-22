@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  simple_hand_tracking
-//
-//  Created by Minghuang Ma on 9/17/14.
-//  Copyright (c) 2014 Minghuang Ma. All rights reserved.
-//
-
 #include <iostream>
 #include <vector>
 #include <list>
