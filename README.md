@@ -27,6 +27,6 @@ A2 format
 
 ### Presentation
 2 min presentation with slides ...
-[Presentation](presentation.pdf)
+[Presentation](presentaion.pdf)
 
 # Best of Luck!
